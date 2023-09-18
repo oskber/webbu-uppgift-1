@@ -1,4 +1,4 @@
-<!-- Visa att du kan skapa en enkel webbapplikation med HTML, CSS och JavaScript.
+ Visa att du kan skapa en enkel webbapplikation med HTML, CSS och JavaScript.
 
  
 
