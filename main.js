@@ -1,3 +1,3 @@
 function changeName() {
-  document.getElementById("heading").innerHTML = "Goodbye World";
+  document.querySelector("#heading").innerHTML = "Goodbye World";
 }
